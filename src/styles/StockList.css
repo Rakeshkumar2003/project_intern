@@ -1,0 +1,21 @@
+.stock-list {
+    list-style: none;
+    padding: 0;
+    margin: 20px;
+  }
+  
+  .stock-item {
+    background-color: white;
+    padding: 15px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  .stock-item h3 {
+    margin: 0 0 10px;
+  }
+  .stock-item a {
+    color: #007bff;
+    font-weight: bold;
+  }
+  

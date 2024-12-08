@@ -1,0 +1,24 @@
+.buy-sell-form {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    max-width: 400px;
+  }
+  .buy-sell-form input {
+    margin-right: 10px;
+    padding: 5px;
+    font-size: 16px;
+  }
+  .buy-sell-form button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  .buy-sell-form button:hover {
+    background-color: #0056b3;
+  }
+  
